@@ -20,6 +20,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "debian:8"
   }
 }
